@@ -3,9 +3,12 @@
     margin: 0;
     padding: 0;
 }
-header{
+header {
     background: red;
 }
 .slider {
     background-color: yellow;
+}
+footer {
+    font-size: 45px;
 }
